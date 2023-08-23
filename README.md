@@ -1,4 +1,4 @@
-<img width="549" alt="image" src="https://github.com/gitAkashDass/Forage-Virtual-Internship-All-Projects/assets/122095100/cef4d80a-e454-4911-a1ae-136acb7dd45a"># Forage-Virtual-Internship-All-Projects
+# Forage-Virtual-Internship-All-Projects
 Forage Virtual Internship All Projects
 
 # Project no 1
