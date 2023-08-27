@@ -1,7 +1,7 @@
 # Forage-Virtual-Internship-All-Projects
 Forage Virtual Internship All Projects
 
-# Project no 1
+# Internship No 1
 # British Airways Data Science Projects 
 * This is a Two Task Porject
 * Task One is named SkyOpinion: Uncovering Sentiments in British Airways Passenger Reviews. I Used AI to Name the project
@@ -13,9 +13,13 @@ CERTIFICATE OF COMPLETION OF THE TASKS
 
 <img width="482" alt="Screenshot 2023-08-19 174358" src="https://github.com/gitAkashDass/Forage-Virtual-Internship-All-Projects/assets/122095100/3e43e384-e5ad-4bf4-a191-8e6b2f80766e">
 
-# Project no 2
+# Internship No 2
 # PWC  Switzerland POWER BI JOB Simulation 
 * Task Two: Call Center Trends Dashboard 
+
+# Internship No 3
+# Forage COGNIZANT ARTIFICIAL INTELLIGENCE INTERNSHIP
+* Task 1 uploaded : Forage Cognizent ARTIFICIAL INTELLIGENCE TASK 1  
 
 
 
