@@ -19,6 +19,5 @@ CERTIFICATE OF COMPLETION OF THE TASKS
 
 
 
-https://github.com/gitAkashDass/Forage-Virtual-Internship-All-Projects/assets/122095100/2ec73f29-40d9-4da7-9cb7-38f19020faa0
 
 
