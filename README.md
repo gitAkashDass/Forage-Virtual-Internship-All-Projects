@@ -19,8 +19,9 @@ CERTIFICATE OF COMPLETION OF THE TASKS
 
 # Internship No 3
 # Forage COGNIZANT ARTIFICIAL INTELLIGENCE INTERNSHIP
-* Task 1 uploaded : Forage Cognizent ARTIFICIAL INTELLIGENCE TASK 1  
-
+* Task 1 uploaded : Forage Cognizent ARTIFICIAL INTELLIGENCE TASK 1
+* Task 2 was just simple its not uploaded 
+* Task 3 uploaded : Forage Cognizant AI TASK 3 USING SCIKIT LEARN RANDOM FOREST
 
 
 
