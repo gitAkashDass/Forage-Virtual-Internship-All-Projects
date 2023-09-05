@@ -19,6 +19,11 @@ CERTIFICATE OF COMPLETION OF THE TASKS
 ### Youtube link Of Task Two : https://youtu.be/6kqf2V9c7og
 ![Call center](https://github.com/gitAkashDass/Forage-Virtual-Internship-All-Projects/assets/122095100/a2d95512-62e0-41db-82d7-c6c4d868cabc)
 
+* Task 3 : HR Dashboard Report on Divercity Among Employees
+  ### Youtube link Of Task Three : https://youtu.be/hIX47h6QOCg
+<img width="578" alt="Bowerbi HR" src="https://github.com/gitAkashDass/Forage-Virtual-Internship-All-Projects/assets/122095100/98e8a9a9-552b-48dc-9118-c9b569224f59">
+
+
 
 # Internship No 3
 # Forage COGNIZANT ARTIFICIAL INTELLIGENCE INTERNSHIP
