@@ -15,7 +15,10 @@ CERTIFICATE OF COMPLETION OF THE TASKS
 
 # Internship No 2
 # PWC  Switzerland POWER BI JOB Simulation 
-* Task Two: Call Center Trends Dashboard 
+* Task Two: Call Center Trends Dashboard
+### Youtube link Of Task Two : https://youtu.be/6kqf2V9c7og
+![Call center](https://github.com/gitAkashDass/Forage-Virtual-Internship-All-Projects/assets/122095100/a2d95512-62e0-41db-82d7-c6c4d868cabc)
+
 
 # Internship No 3
 # Forage COGNIZANT ARTIFICIAL INTELLIGENCE INTERNSHIP
