@@ -32,5 +32,6 @@ CERTIFICATE OF COMPLETION OF THE TASKS
 * Task 3 uploaded : Forage Cognizant AI TASK 3 USING SCIKIT LEARN RANDOM FOREST
 
 
-
-
+# Youtube Related  Projects :
+# Project No 1 : HOW TO CREATE A YOUTUBE CHANNEL (@MentalHealthHelp-wg5pq) BANNER USING PYTHON AND DATA SCIENCE TECHNIQUES.
+#### Youtube link of the Channel The banner Was used on : https://www.youtube.com/channel/UCPOPmgafDvAyc3dxmtxY8ZA
